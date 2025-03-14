@@ -96,4 +96,3 @@ Bist du noch mehr an der Zukunft der Gletscher interessiert? Auf den folgenden W
   polar oceans) are summarised in the [*State of the Cryosphere Report 2024*](https://iccinet.org/statecryo24/). "The report
   describes how a combination of melting polar ice sheets, vanishing glaciers, and thawing
   permafrost will have rapid, irreversible, and disastrous impacts worldwide."
-
