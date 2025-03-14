@@ -17,9 +17,12 @@ Un'introduzione all'iniziativa "Goodbye Glaciers!?" ("Addio ghiacciai!?") è dis
   e <a href="https://www.uibk.ac.at/en/acinn/people/wolfgang-gurgiser/">Wolfgang Gurgiser</a>.  
 </p>  
 
-<a href="https://www.uibk.ac.at/en/">  
-  <img src="/assets/images/logos/logo_uibk.jpg" alt="Logo Innsbruck" style="width: auto; height: 80px;" />  
-</a>  
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.uibk.ac.at/en/">  
+    <img src="/assets/images/logos/logo_uibk.jpg" alt="Logo Innsbruck" style="height: 80px; width: auto;" />  
+  </a>  
+  <img src="/assets/images/logos/logo_mcc_ibk.png" alt="Logo Mountain Competence Center" style="height: 70px; width: auto;" />  
+</div>
 
 ##### Contatto  
 
@@ -65,12 +68,16 @@ Hai domande, idee o feedback? Contattaci!
   <a href="https://www.uzh.ch/en.html">
     <img src="/assets/images/logos/Universität_Zürich_logo.png" alt="Logo Universität_Zürich" style="height: 50px; width: auto;" />
   </a>
-- Altri partner in arrivo...
 
 ### Partner regionali  
+- Bahn zum Berg <a href="https://www.bahn-zum-berg.at"><img src="/assets/images/logos/logo_bahn_zum_berg.png" alt="Logo Bahn zum Berg" style="height: 50px; width: auto;" />  
+  </a> [Zuugle.it <img src="/assets/images/logos/logo_zuugle_small.png" alt="Logo Zuugle.it" style="height: 20px; width: auto;" /> ](https://www.zuugle.it)  
 - Convenzione delle Alpi <a href="https://www.alpconv.org/it/"><img src="/assets/images/logos/logo_alpenkonvention.png" alt="Logo Convenzione delle Alpi" style="height: 50px; width: auto;" />  
   </a>  
 
 - Museo comunale di Absam <a href="https://www.absammuseum.at/"><img src="/assets/images/logos/Museum_Absam_Logo.png" alt="Logo Museo Comunale di Absam" style="height: 50px; width: auto;" />  
   </a>  
 
+- Agenzia per la Protezione civile – Alto Adige <a href="https://bevoelkerungsschutz.provinz.bz.it/it/home">
+    <img src="/assets/images/logos/bevoelkerungsschutz_bozen_logo.png" alt="Agenzia per la Protezione civile – Alto Adige" style="height: 60px; width: auto;" />
+  </a>

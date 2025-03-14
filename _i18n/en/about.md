@@ -17,9 +17,12 @@ An introduction to the "Goodbye Glaciers !?" initiative is on the <a href="{{ si
   and <a href="https://www.uibk.ac.at/en/acinn/people/wolfgang-gurgiser/">Wolfgang Gurgiser</a>.
 </p>
 
-<a href="https://www.uibk.ac.at/en/">
-  <img src="/assets/images/logos/logo_uibk.jpg" alt="Logo Innsbruck" style="width: auto; height: 80px;" />
-</a>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.uibk.ac.at/en/">  
+    <img src="/assets/images/logos/logo_uibk.jpg" alt="Logo Innsbruck" style="height: 80px; width: auto;" />  
+  </a>  
+  <img src="/assets/images/logos/logo_mcc_ibk.png" alt="Logo Mountain Competence Center" style="height: 70px; width: auto;" />  
+</div>
 
 ##### Contact
 
@@ -66,13 +69,16 @@ Do you have any feedback, ideas or questions? Don't hesitate to contact us!
     <img src="/assets/images/logos/Universität_Zürich_logo.png" alt="Logo Universität_Zürich" style="height: 50px; width: auto;" />
   </a>
 
-- More coming soon ...
-
 ### Regional Partners
+- Bahn zum Berg <a href="https://www.bahn-zum-berg.at"><img src="/assets/images/logos/logo_bahn_zum_berg.png" alt="Logo Bahn zum Berg" style="height: 50px; width: auto;" />  
+  </a> [Zuugle.at <img src="/assets/images/logos/logo_zuugle_small.png" alt="Logo Zuugle.at" style="height: 20px; width: auto;" /> ](https://www.zuugle.at)  
 - Alpine Convention
   <a href="https://www.alpconv.org/en/">
     <img src="/assets/images/logos/logo_alpenkonvention.png" alt="Logo Alpenkonvention" style="height: 50px; width: auto;" />
   </a>
 - Municipal Museum Absam <a href="https://www.absammuseum.at/">
     <img src="/assets/images/logos/Museum_Absam_Logo.png" alt="Logo Municipal Museum Absam" style="height: 50px; width: auto;" />
+  </a>
+- Civil Protection Agency – South Tyrol <a href="https://bevoelkerungsschutz.provinz.bz.it/de/home">
+    <img src="/assets/images/logos/bevoelkerungsschutz_bozen_logo.png" alt="Civil Protection Agency – South Tyrol" style="height: 60px; width: auto;" />
   </a>
